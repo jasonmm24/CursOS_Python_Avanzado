@@ -32,6 +32,8 @@ El material está organizado en cuatro módulos principales de complejidad progr
  |- 📂 Modulo_4_Vision          # Filtros HSV, segmentación espacial y tracking (OpenCV)
  
  |- 📜 README.md
+ 
+ |- 📜 requirements.txt
 
 ---
 
