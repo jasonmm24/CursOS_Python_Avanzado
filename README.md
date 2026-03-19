@@ -29,7 +29,7 @@ El material está organizado en cuatro módulos principales de complejidad progr
  
  |- 📂 Modulo_3_Conexiones      # Scripts Seriales, Bluetooth, TCP-IP y SimpleController
  
- |- 📂 Modulo_4_Vision          # Filtros HSV, segmentación espacial y tracking (OpenCV)
+ |- 📂 Modulo_4_Vision          # Filtros HSV, segmentación espacial y tracking (OpenCV y MediaPipe)
  
  |- 📜 README.md
  
