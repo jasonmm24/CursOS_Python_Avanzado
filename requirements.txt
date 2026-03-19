@@ -1,0 +1,20 @@
+# =========================================================
+# Requisitos del Curso: Python Avanzado (GUI, Hardware, Visión)
+# =========================================================
+# Instrucciones de instalación: 
+# Abre tu terminal o símbolo del sistema y ejecuta:
+# pip install -r requirements.txt
+# =========================================================
+
+# 1. Core matemático (Requerido por OpenCV)
+numpy
+
+# 2. Interfaces Gráficas (Qt)
+PyQt5
+
+# 3. Comunicación con Hardware (SimpleController)
+pyserial
+
+# 4. Visión Artificial
+opencv-python
+mediapipe
