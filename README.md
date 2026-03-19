@@ -23,15 +23,15 @@ El material está organizado en cuatro módulos principales de complejidad progr
 
 📦 CursOS_Python_Avanzado
 
- | 📂 Modulo_1_POO             # Clases, Herencia y Polimorfismo
+ |- 📂 Modulo_1_POO             # Clases, Herencia y Polimorfismo
  
- | 📂 Modulo_2_Interfaces      # Archivos .ui y conexión de Señales/Ranuras en PyQt
+ |- 📂 Modulo_2_Interfaces      # Archivos .ui y conexión de Señales/Ranuras en PyQt
  
- | 📂 Modulo_3_Conexiones      # Scripts Seriales, Bluetooth, TCP-IP y SimpleController
+ |- 📂 Modulo_3_Conexiones      # Scripts Seriales, Bluetooth, TCP-IP y SimpleController
  
- | 📂 Modulo_4_Vision          # Filtros HSV, segmentación espacial y tracking (OpenCV)
+ |- 📂 Modulo_4_Vision          # Filtros HSV, segmentación espacial y tracking (OpenCV)
  
- | 📜 README.md
+ |- 📜 README.md
 
 ---
 
