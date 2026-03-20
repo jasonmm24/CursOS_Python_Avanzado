@@ -1,4 +1,4 @@
-<h1 align="center">🐍 Python Avanzado: Interfaces Gráficas, Comunicación y Visión</h1>
+<h1 align="center"> Python Avanzado: Interfaces Gráficas, Comunicación y Visión</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -9,7 +9,7 @@
 
 > **Mención Especial:** Este curso y sus materiales de código abierto han sido organizados e impulsados gracias a la asociación **OPEN SOURCE**.
 
-## 📖 Acerca del Curso
+## Acerca del Curso
 
 Este repositorio contiene el material oficial, códigos base y ejercicios prácticos del curso de Python Avanzado. El proyecto está diseñado con un enfoque práctico en ingeniería, cerrando la brecha entre el desarrollo de software y el control de sistemas físicos reales. 
 
@@ -17,7 +17,7 @@ A través de este material, los estudiantes aprenderán a integrar **Interfaces 
 
 ---
 
-## 🗂️ Estructura del Repositorio
+## Estructura del Repositorio
 
 El material está organizado en cuatro módulos principales de complejidad progresiva:
 
@@ -37,7 +37,7 @@ El material está organizado en cuatro módulos principales de complejidad progr
 
 ---
 
-## 🛠️ Entorno de Trabajo y Requisitos
+## Entorno de Trabajo y Requisitos
 
 Para garantizar la accesibilidad, **no se requiere hardware físico (Arduino/ESP32) para tomar este curso**. Todas las prácticas de electrónica e integración se realizarán en entornos de simulación y emulación.
 
@@ -52,7 +52,7 @@ Asegúrate de tener instalado lo siguiente antes de comenzar:
 
 ---
 
-## 🚀 Instalación y Uso
+## Instalación y Uso
 
 Sigue estos pasos para configurar tu entorno local:
 
@@ -75,7 +75,7 @@ Sigue estos pasos para configurar tu entorno local:
 
 ---
 
-## 👨‍💻 Autores y Contribuciones
+## Autores y Contribuciones
 
 * **Medina Martinez Jonathan Jason** - Instructor principal y Desarrollo - @jasonmm24 (https://github.com/jasonmm24)
 * **Asociación OPEN SOURCE** - Organización e impartición del curso - @OPEN-SOURCE-UPIITA (https://github.com/OPEN-SOURCE-UPIITA)
