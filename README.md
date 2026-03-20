@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Qt_Designer-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/Hardware-SimulIDE-blue?style=for-the-badge" alt="SimulIDE">
+  <img src="https://img.shields.io/badge/MediaPipe-007f8b?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe">
 </p>
 
 > **Mención Especial:** Este curso y sus materiales de código abierto han sido organizados e impulsados gracias a la asociación **OPEN SOURCE**.
