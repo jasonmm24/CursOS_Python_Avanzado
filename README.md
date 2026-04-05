@@ -78,7 +78,7 @@ Sigue estos pasos para configurar tu entorno local:
 
 ## Autores y Contribuciones
 
-* **Medina Martinez Jonathan Jason** - Instructor principal y Desarrollo - @jasonmm24 (https://github.com/jasonmm24)
+* **Jonathan Jason Medina Martinez** - Instructor principal y Desarrollo - @jasonmm24 (https://github.com/jasonmm24)
 * **Asociación OPEN SOURCE** - Organización e impartición del curso - @OPEN-SOURCE-UPIITA (https://github.com/OPEN-SOURCE-UPIITA)
 
 ¿Tienes alguna sugerencia para mejorar el código o el material didáctico? ¡Los Pull Requests son bienvenidos! Siéntete libre de explorar, romper el código y aprender.
